@@ -9,8 +9,8 @@ This project uses openCV to detect objects in the video feed and to view it we m
 To view on any other network oyher than this , we used ngrok to expose a new local tunnel.
 
 Use of external elements :- 
-Raspberry Pi (any version)
-Hardware Framework of CCTV
-imutils functions
-Raspberry Pi camera
+Raspberry Pi (any version) ,
+Hardware Framework of CCTV ,
+imutils functions ,
+Raspberry Pi camera ,
 Flask-BasicAuth 0.2.0
