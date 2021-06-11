@@ -1,2 +1,3 @@
-# Ragnarok
-Vault of my Project experiences
+# CCTV Surveillance System
+
+Object detection and LIVE surveillance feed by using Raspberry Pi Zero
